@@ -19,10 +19,10 @@ CREATE TABLE Battles (
 --Ships
 INSERT INTO Ships VALUES ('Enterprise', 'USA', 1925, 17, 13);
 INSERT INTO Ships VALUES ('Voyager', 'USA', 1928, 11, 9);
-INSERT INTO Ships VALUES ('Aconit', 'Russia', 1929, 18, 13);
-INSERT INTO Ships VALUES ('Achille', 'Russia', 1935, 15, 14);
-INSERT INTO Ships VALUES ('Gorshkov', 'France', 1940, 17, 10);
-INSERT INTO Ships VALUES ('Nevsky', 'France', 1941, 11, 9);
+INSERT INTO Ships VALUES ('Gorshkov', 'Russia', 1929, 18, 13);
+INSERT INTO Ships VALUES ('Nevsky', 'Russia', 1935, 15, 14);
+INSERT INTO Ships VALUES ('Aconit', 'France', 1940, 17, 10);
+INSERT INTO Ships VALUES ('Achille', 'France', 1941, 11, 9);
 
 --Battles
 INSERT INTO Battles VALUES ('Surigao Strait', 'Enterprise', "damaged");
